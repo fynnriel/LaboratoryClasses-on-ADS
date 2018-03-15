@@ -1,0 +1,10 @@
+C:\study\ugntu\algorithm\lab1\lab1\bin\Debug\lab1.exe.config
+C:\study\ugntu\algorithm\lab1\lab1\bin\Debug\lab1.exe
+C:\study\ugntu\algorithm\lab1\lab1\bin\Debug\lab1.pdb
+C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.exe
+C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.pdb
+C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.Form1.resources
