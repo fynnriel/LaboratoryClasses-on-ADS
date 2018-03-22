@@ -8,3 +8,13 @@ C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
 C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.exe
 C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.pdb
 C:\study\ugntu\algorithm\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\bin\Debug\lab1.exe
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\bin\Debug\lab1.pdb
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\obj\Debug\lab1.exe
+C:\Projects\LaboratoryClasses-on-ADS\algorithm\lab1\lab1\obj\Debug\lab1.pdb

@@ -23,8 +23,8 @@ namespace lab2
 
             for (int i = 0; i < n; i++)
             {
-                //arr[i] = random.Next(2_000_000) - 1_000_000;
-                arr[i] = random.Next(2_0) - 1_0;
+                arr[i] = random.Next(2_000_000) - 1_000_000;
+                //arr[i] = random.Next(2_0) - 1_0;
             }
             
             using(StreamWriter stream = new StreamWriter(path, false, Encoding.UTF8))

@@ -110,6 +110,7 @@ namespace lab2
         private void btnGenerate_Click(object sender, EventArgs e)
         {
             Sort sort = new Sort();
+            /*
             if (radGenerate100.Checked)
             {
                 sort.generateTestFile("test100", 20);
@@ -125,6 +126,11 @@ namespace lab2
             else if (radGenerate100000.Checked)
             {
                 sort.generateTestFile("test100000", 100000);
+            }
+            */
+            for (int i = 10_000; i <= 50_000; i+=5000)
+            {
+                sort.generateTestFile("test" + i, i);
             }
         }
     }

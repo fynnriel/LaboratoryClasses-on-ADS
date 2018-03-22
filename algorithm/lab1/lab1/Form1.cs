@@ -13,9 +13,9 @@ namespace lab1
         List<Record<double>> recordsDouble;
         List<Record<int>> recordsInt;
         List<Record<string>> recordsStr;
-        int size = 1000;
+        int size = 10_000;
         private bool arrayOfRecords = true;
-
+        //working
         public Form1()
         {
             InitializeComponent();
@@ -28,7 +28,7 @@ namespace lab1
 
         private void btnSort_Click(object sender, EventArgs e)
         {
-
+            test();
             Stopwatch stopwatch = new Stopwatch();
             int avrCompCount = 0;
             int avrSwapCount = 0;
@@ -264,7 +264,11 @@ namespace lab1
             stat.Append('\n');
             stat.Append("Среднее число перестановок:\n");
             stat.Append(avrSwapCount);
-
+            if (size < 50_000)
+                size += 5000;
+            else
+                size = 10_000;
+            
             tbxSortStat.Text = stat.ToString();
         }
 
